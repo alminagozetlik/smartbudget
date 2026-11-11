@@ -55,11 +55,11 @@ Oluşturulan kodlar geliştirme sürecinde test edilmiş ve ihtiyaçlara göre d
 
 ## Ekran Görüntüsü
 
-Dashboard ekran görüntüsü bu bölüme eklenecektir.
+![SmartBudget Dashboard](screenshots/dashboard.png)an görüntüsü bu bölüme ![SmartBudget Dashboard](screenshots/dashboard.png)
 
 ## Canlı Demo
 
-Netlify bağlantısı yayınlama işlemi tamamlandıktan sonra eklenecektir.
+[SmartBudget Uygulamasını Aç](https://SENIN-SITEN.netlify.app)i [SmartBudget Uygulamasını Aç](https://scintillating-centaur-3dc91f.netlify.app)
 
 ## Notlar
 
