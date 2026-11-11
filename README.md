@@ -55,7 +55,7 @@ Oluşturulan kodlar geliştirme sürecinde test edilmiş ve ihtiyaçlara göre d
 
 ## Ekran Görüntüsü
 
-![SmartBudget Dashboard](screenshots/dashboard.png)an görüntüsü bu bölüme ![SmartBudget Dashboard](screenshots/dashboard.png)
+![SmartBudget Dashboard](screenshots/dashboard.png)
 
 ## Canlı Demo
 
